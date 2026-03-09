@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is paiyya chartekul</h2>
 
 ###
 
@@ -8,10 +8,11 @@
 </div>
 
 ###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
+<h2 class="heading-element" dir="auto">Computer Engineering Student</h2>
+<!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
+<p dir="auto">Currently study in third year majoring in computer engineering at KMITL</p>
 ###
+<ul dir="auto"><li>::marker "🌍&nbsp; I'm based in Bangkok"</li></ul>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
