@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! My name is Paiyya Chartekul</h2>
 
-<h2 align="left">Computer Engineering Student at KMITL</h2>
-
+<!-- <h2 align="left">Computer Engineering Student at KMITL</h2> -->
+<p>Currently studying in third year majoring in Computer Engineering at KMITL</p>
 
 
 
