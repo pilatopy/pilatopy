@@ -12,7 +12,7 @@
 <!-- <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  /> -->
 <p dir="auto">Currently study in third year majoring in computer engineering at KMITL</p>
 ###
-<ul dir="auto"><li>::marker "🌍&nbsp; I'm based in Bangkok"</li></ul>
+<ul dir="auto"><li> "🌍&nbsp; I'm based in Bangkok"</li></ul>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -31,7 +31,8 @@
 </div>
 
 ###
-
+<h3 class="heading-element" dir="auto">Socials</h3>
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="visibility: visible; max-width: 100%;">
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -45,6 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" /> -->
 
 ###
