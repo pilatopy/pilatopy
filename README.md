@@ -4,7 +4,7 @@
 <p>Currently studying in third year majoring in Computer Engineering at KMITL</p>
 
 <ul>
-  <li>🌍 I'm based in Bangkok</li>
+  🌍 I'm based in Bangkok
 </ul>
 
 ###
