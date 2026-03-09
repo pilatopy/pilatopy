@@ -3,9 +3,14 @@
 <h2 align="left">Computer Engineering Student at KMITL</h2>
 
 
+
+
+
 <ul>
   🌍 I'm based in Bangkok
 </ul>
+
+
 
 ###
 
